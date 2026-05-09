@@ -1,6 +1,3 @@
-## `docs/07-public-vs-private-services.md`
-
-```md
 # Public vs Private Services
 
 ## Purpose
