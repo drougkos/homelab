@@ -1,9 +1,3 @@
-
----
-
-## `docs/08-lessons-learned.md`
-
-```md
 # Lessons Learned
 
 ## Overview
