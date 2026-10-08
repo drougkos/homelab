@@ -6,7 +6,7 @@
 - CPU: Ryzen 7 4800H
 - RAM: 32 GB DDR4
 - Storage: 1 TB NVMe
-- Network: Gigabit Ethernet
+- Network:Ethernet
 
 ## Client Devices
 
