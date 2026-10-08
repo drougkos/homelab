@@ -8,7 +8,6 @@
 - Tailscale used for remote private access
 - Docker Compose used for isolated services
 - Vaultwarden signup disabled
-- Sensitive `.env` files excluded from Git
 
 ## Private Services
 
@@ -32,7 +31,6 @@ These may become public later:
 
 Never commit:
 
-- `.env`
 - passwords
 - admin tokens
 - database passwords
