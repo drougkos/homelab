@@ -23,6 +23,6 @@ Ubuntu Server homelab focused on self-hosting, security, monitoring, and infrast
 | Minecraft Server | Game server | Local now, public later | Working locally (will launch online when domain is bought so to not expose ports and ip) |
 | UFW Firewall | Host firewall | Server-level | Working |
 | SSH | Server administration | LAN/VPN restricted | Working |
-| Reverse Proxy | Public/private routing | Planned/In progress | Planned |
-| Personal Website | Portfolio/CV website | Public later | Planned |
+| Reverse Proxy | Public/private routing | Planned/In progress | Working |
+| Personal Website | Portfolio/CV website | Public later | In progress |
 
